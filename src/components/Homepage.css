@@ -1,0 +1,9 @@
+/* Homepage.css or your global CSS file */
+body {
+  background-color: #343a40; /* Dark background color */
+}
+
+.card {
+  background-color: white;
+  color: black; /* Text color for card content */
+}
